@@ -1,1 +1,0 @@
-Name: Arun Neupane, Age: 21, Gender: Male, Salary: 20000

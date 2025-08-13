@@ -1,0 +1,63 @@
+# Compiled class files
+*.class
+
+# Compiled archives
+*.jar
+*.war
+*.ear
+
+# Java source temp / scratch files
+tempCodeRunnerFile.java
+
+# Maven build output
+target/
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# SpeechRecognizer (Maven project) local artifacts
+SpeechRecognizer/libs/
+SpeechRecognizer/models/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime / generated data files
+Servers and sockets/File Transfer/received_file.txt
+Practical/employee_details.txt
